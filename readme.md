@@ -13,13 +13,13 @@
 
 #### keywords.txt (optional):
 
+Owl
+
+apple
+
 java
 
-python
-
-angular
-
-typescript
+github
 
 **One keyword per line. Empty lines are ignored.**
 
